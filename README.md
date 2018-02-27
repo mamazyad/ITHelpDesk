@@ -6,6 +6,9 @@
 ## Overview
  This application is a web-based incident tracking system for IT Help Desks. It is designed to facilitate communications between IT staff and end users. The goal is to serve both users in the most simple, frictionless manner possible while providing to all their needs. In addition, the application allows for IT supervision and performance tracking.
  
+  ## Purpose 
+The aim of the application is to provide users with an automated point of contact to gain assistance in troubleshooting, get answers to questions, and solve known problems. It also aims to effectively manage the tracking of tickets so that users need not to rely on manual means of tracking their requests. Lastly, the application empowers the IT manager with a clear mean of evaluating the IT technician’s performance.
+
  ## Users
  * IT staff (technicians)  
  * IT manager
@@ -26,5 +29,5 @@
 
 ## Built with
 -	Visual Studio (Version 15.5)
--	MVC 5.2.3.0
+-	MVC (Version 5.2.3.0)
 -	Microsoft SQL Server Management Studio (version 14.0)  
