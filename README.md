@@ -13,16 +13,16 @@
  * Staff
 
 ## Features
-- Provide staff with the ability to request IT services (creating ticket).
-- Staff are able to view the progress of the ticket.
-- Staff are able to evaluate services provided and give feedback.
-- IT Manager can generate and print reports reflecting the IT staff performance.
-- IT staff and the IT Help Desk system admin have the ability to prioritize tickets.
-- IT staff and the IT Help Desk system admin have the ability to reassign tickets.
-- Staff can ask to accelerate tickets. 
-- After fulfilling a ticket, IT staff can submit the solution to the Knowledge Base.
-- Knowledge base is available to be viewed by all users.
-- In case a ticket has exceeded the time allowed for it to be resolved, the IT staff responsible and the IT Help Desk system admin are  notified.
+- Provide staff with the ability to request IT services (**creating ticket**).
+- Staff are able to **view the progress** of the ticket.
+- Staff are able to **evaluate services** provided and give feedback.
+- IT Manager can generate and print **reports** reflecting the IT staff performance.
+- IT staff and the IT Help Desk system admin have the ability to **prioritize tickets**.
+- IT staff and the IT Help Desk system admin have the ability to **reassign tickets**.
+- Staff can ask to **accelerate tickets**. 
+- After fulfilling a ticket, IT staff can **submit the solution** to the Knowledge Base.
+- **Knowledge base** is available to be viewed by all users.
+- In case a ticket has exceeded the time allowed for it to be resolved, the IT staff responsible and the **IT Help Desk system admin are  notified**.
 
 ## Built with
 -	Visual Studio (Version 15.5)
